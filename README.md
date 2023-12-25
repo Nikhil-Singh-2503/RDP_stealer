@@ -12,7 +12,7 @@ Step 4: Then you get a .exe file in dist section which is newly created.
 
 Step 5: Now apply some social engineering and bind this file to any other file and whoever clicks on this file you  will get the RDP of that device.
 
-Step 6: Creditials of Scrapped RDP will be sent to your discord bot whose URL you have provided.
+Step 6: Credentials of Scrapped RDP will be sent to your discord bot whose URL you have provided.
 
 Step 7: Login with these credentials in your device and add a new Profile in the RDP to get un-noticed by the RDP Owner.
 
